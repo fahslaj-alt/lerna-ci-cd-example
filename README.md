@@ -1,6 +1,8 @@
-# lerna-ci-cd-example
+# lerna-ci-cd-example - Forked!
 
 An example of a package-based monorepo using Lerna, complete with autonomous CI and CD with Github Actions.
+
+**This is a fork of the original repo, so it cannot successfully run the Version or Publish workflows, as it does not have access to the necessary secrets from the original.**
 
 ## Contributing
 
