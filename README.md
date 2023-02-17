@@ -6,6 +6,8 @@ An example of a package-based monorepo using Lerna, complete with autonomous CI 
 
 **This is a fork of the original repo, so it cannot successfully run the Version or Publish workflows, as it does not have access to the necessary secrets from the original.**
 
+See the main [lerna-ci-cd-example repo](https://github.com/fahslaj/lerna-ci-cd-example) for documentation and examples.
+
 ## Contributing
 
 Below are some commands to run for common tasks within the monorepo.
